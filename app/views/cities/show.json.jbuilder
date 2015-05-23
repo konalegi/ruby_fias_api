@@ -1,0 +1,1 @@
+json.formalname @city[:formalname]
